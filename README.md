@@ -2,12 +2,12 @@
 Test
 
 
-git clone git@github.com:sudmeh/ACAD_FEWDF.git
-git status
-cd ACAD_FEDWF
-git status
-git add session_01.html
-git status
-git commit -m "from dell"
-git status
+git clone git@github.com:sudmeh/ACAD_FEWDF.git <br>
+git status<br>
+cd ACAD_FEDWF<br>
+git status<br>
+git add session_01.html<br>
+git status<br>
+git commit -m "from dell"<br>
+git status<br>
 git push
